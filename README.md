@@ -51,3 +51,5 @@ Working with JSON data structures
 Data visualization using Python
 This project bridges the gap between raw data collection and data storytelling, showcasing how open data can be transformed into meaningful visuals that help in decision-making.
 
+"OUTPUT" : ![Image](https://github.com/user-attachments/assets/8e277eb1-83ab-46bc-b6d8-dd28854f7580)
+![Image](https://github.com/user-attachments/assets/6542c5b6-fda9-4cb2-9b1c-f98937ebbd4e)
